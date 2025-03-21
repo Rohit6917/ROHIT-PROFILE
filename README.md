@@ -22,6 +22,7 @@
 📊 [**Financial Dashboard**](https://github.com/Rohit6917/FINANCIAL-DASHBOARD?tab=readme-ov-file)  
 📈 **Customer Loan & Credit Risk Analysis** *(Machine Learning, SQL, Python)*  
 📉 **Zomato Data Sales Analysis** *(Python, Pandas, Matplotlib)*  
+🔗 [**My GitHub Projects**](https://github.com/Rohit6917)  
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rohit6917&theme=dark&hide_border=true)  
