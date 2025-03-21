@@ -1,6 +1,7 @@
 # Hi there, I'm Rohit Kumar Raj! 👋
 
 ## 🚀 About Me
+🎯 **Overall Experience: 1.5+ years in Data Analytics and Data Science**
 🎓 **Data Analyst | Data Scientist**  
 🔍 Passionate about turning data into insights & building impactful dashboards  
 📊 Proficient in Python, SQL, Power BI, Tableau, and Machine Learning  
