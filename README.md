@@ -5,17 +5,24 @@
 ![Profile Image](https://via.placeholder.com/150)  
 *Replace the above link with your own image URL*
 
-🚀 **Data Analyst | Data Scientist Enthusiast**  
+🚀 **Data Analyst | Data Science Enthusiast**  
 🎓 **B.Sc in Analytical Physics | University of Calcutta**  
 📊 **Power BI | SQL | Python | Machine Learning | Tableau**
 
 ---
 
 ## 🔥 About Me
-- Passionate about **data analytics & machine learning**.
-- Experienced in **SQL, Power BI, Python, and R** for data-driven insights.
-- Developed **interactive dashboards & predictive models**.
-- Seeking opportunities to create **impactful business solutions**.
+- Data Analyst with **1.5 years of experience** in data validation, clinical data management, and predictive modeling.
+- Expertise in **SQL, Power BI, Python, R, and Tableau** for data-driven insights.
+- Skilled in **data cleaning, visualization, and machine learning models** for business intelligence.
+- **Work Experience:**  
+  - **Aditya Birla Capital (March 2023 - July 2024)** – Kolkata  
+    - **Client Loan & Credit Risk Evaluation:** Developed predictive models using Python & SQL, improving risk assessment accuracy by 22%.
+    - **Sales Performance & Employee Productivity Dashboard:** Created Power BI dashboards, increasing productivity by 15%.
+    - Conducted **demographic segmentation** for marketing campaigns, leading to a 25% increase in engagement.
+  
+  - **Internship: Data Science at Oasis Infobyte Solution**
+    - Completed **three projects** in machine learning and data visualization.
 
 ---
 
@@ -33,11 +40,23 @@
 
 ### 1️⃣ [Amazon Sales Dashboard](https://github.com/Rohit6917/projects)
 📊 **Tools:** Power BI, SQL, Python  
-📌 **Insightful sales analysis with interactive visuals**
+📌 **Developed an interactive dashboard to monitor sales trends and revenue growth.**
 
 ### 2️⃣ [Financial Dashboard](https://github.com/Rohit6917/FINANCIAL-DASHBOARD?tab=readme-ov-file)
 📈 **Tools:** Power BI, SQL  
-📌 **Deep insights into financial data and KPIs**
+📌 **Designed an interactive financial dashboard to analyze key metrics such as revenue and expenses.**
+
+### 3️⃣ [Diwali Sales Analysis](https://github.com/Rohit6917/python-project/blob/main/Untitled6.ipynb)
+📊 **Tools:** Python, Scikit-learn, Machine Learning  
+📌 **Performed EDA on customer demographics to optimize promotional campaigns.**
+
+### 4️⃣ [Credit Card Data Dashboard](https://github.com/Rohit6917/Dashboard-for-credit-card-s/blob/main/README.md)
+📊 **Tools:** Power BI, SQL  
+📌 **Created a dashboard visualizing transaction patterns and customer segmentation.**
+
+### 5️⃣ [Zomato Sales Analysis](https://github.com/Rohit6917/zomato-sales-project/blob/main/Untitled7.ipynb)
+📈 **Tools:** Python, Machine Learning  
+📌 **Evaluated restaurant performance and customer behavior using ML techniques.**
 
 ---
 
@@ -46,6 +65,14 @@
 ![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohit6917&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rohit6917&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit6917&layout=compact&theme=radical)
+
+---
+
+## 📜 Certifications
+- **Data Analysis Certificate** – Microsoft & LinkedIn  
+- **Artificial Intelligence and Generative AI** – Microsoft  
+- **Google Analytics Certificate** – Great Learning Academy  
+- **Data Science Certificate** – Forage (BCGX)  
 
 ---
 
