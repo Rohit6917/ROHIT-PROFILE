@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar Raj</h1>
-<h3 align="center">A Passionate Data Analyst & Python Programmer from India 🇮🇳</h3>
+<h3 align="center"> Data Analyst & Data scientist  from India 🇮🇳</h3>
 
 <br>
 
