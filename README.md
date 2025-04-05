@@ -40,8 +40,20 @@
 | [🛍️ Diwali Sales Analysis](https://github.com/Rohit6917/Diwali-Sales-Analysis) | Used ML to analyze customer trends & optimize sales. | Python, Pandas, Seaborn |
 | [💳 Credit Risk Dashboard](https://github.com/Rohit6917/Credit-Risk-Dashboard) | Visualized customer credit data & risk segments. | Power BI, SQL |
 | [📦 Amazon Sales Dashboard](https://github.com/Rohit6917/projects) | Trend analysis of Amazon products & sales channels. | Power BI, DAX |
-| [📉 Financial Dashboard](https://github.com/Rohit6917/FINANCIAL-DASHBOARD) | Business overview of company’s finances. | Power BI |
+| [📉 Financial Dashboard](https://github.com/Rohit6917/FINANCIAL-DASHBOARD?tab=readme-ov-file) | Business overview of company’s finances. | Power BI |
 | [🍽️ Zomato Data Analysis](https://github.com/Rohit6917/Zomato-Data-Analysis) | Explored restaurant data to find business trends. | Python, Matplotlib, Seaborn |
+
+👉 **[Click here to view all my projects](https://github.com/Rohit6917?tab=repositories)**
+
+---
+
+### 🔗 Project Portfolio
+
+📊 [Amazon Sales Dashboard](https://github.com/Rohit6917/projects)  
+💳 [Financial Dashboard](https://github.com/Rohit6917/FINANCIAL-DASHBOARD?tab=readme-ov-file)  
+🎯 [Diwali Sales Analysis](https://github.com/Rohit6917/Diwali-Sales-Analysis)  
+🍽️ [Zomato Data Analysis](https://github.com/Rohit6917/Zomato-Data-Analysis)  
+📈 [Credit Risk Dashboard](https://github.com/Rohit6917/Credit-Risk-Dashboard)
 
 ---
 
