@@ -50,11 +50,7 @@
 - 🔗 [Diwali Sales Dashboard](https://github.com/Rohit6917/Diwali-Sales-Dashboard)  
 - 📺 [Netflix Content Analysis](https://github.com/Rohit6917/Netflix-Countrywise-Content-Analysis-/blob/main/Netflix%20data%20Analysis.ipynb)  
 - 📊 [Financial Dashboard](https://github.com/Rohit6917/FINANCIAL-DASHBOARD)  
-- 💳 [Credit Card Data Dashboard](https://github.com/Rohit6917/Dashboard-for-credit-card-s)  
-- 🛒 [Amazon Sales Dashboard](https://github.com/Rohit6917/projects)  
-- 🧠 [Loan Default ML Model](https://github.com/Rohit6917/Customer-Loan-Credit-Risk-Model)  
-- 📈 [Sales Forecasting](https://github.com/Rohit6917/Sales-Performance-Forecasting)  
-- 🍽️ [Zomato Data Analysis](https://github.com/Rohit6917/Zomato-Sales-Data-Analysis)
+- 💳 [Credit Card Data Dashboard](https://github.com/Rohit6917/Dashboard-for-credit-card-s) 
 
 ---
 
