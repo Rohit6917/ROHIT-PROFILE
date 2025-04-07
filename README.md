@@ -80,7 +80,7 @@
 ### 📫 Let's Connect
 
 - 📧 Email: rohitkumarraj311@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/rohit-kumar-raj)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rohit-kumar-raj-0b891624a)  
 - 🔗 [GitHub](https://github.com/Rohit6917)  
 
 ---
