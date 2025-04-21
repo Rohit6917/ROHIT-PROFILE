@@ -43,14 +43,19 @@
 - **Data Science Intern - Oasis Infobyte**  
   🔍 Built multiple ML & data projects
 
----
+  ---
 
 ### 🌟 Featured Projects
 
 - 🔗 [Diwali Sales Dashboard](https://github.com/Rohit6917/Diwali-Sales-Dashboard)  
 - 📺 [Netflix Content Analysis](https://github.com/Rohit6917/Netflix-Countrywise-Content-Analysis-/blob/main/Netflix%20data%20Analysis.ipynb)  
 - 📊 [Financial Dashboard](https://github.com/Rohit6917/FINANCIAL-DASHBOARD)  
-- 💳 [Credit Card Data Dashboard](https://github.com/Rohit6917/Dashboard-for-credit-card-s) 
+- 💳 [Credit Card Data Dashboard](https://github.com/Rohit6917/Dashboard-for-credit-card-s)
+  
+---
+
+### 🌟 All Projects 
+https://github.com/Rohit6917
 
 ---
 
